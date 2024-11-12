@@ -13,7 +13,7 @@ export function MarsCard({ imgSrc, date }: MarsCardProps) {
           <img
             src={imgSrc}
             alt={`Mars Rover on ${date}`}
-            className="w-20 h-20 object-cover rounded-full cursor-pointer border-2 border-gray-300 hover:border-blue-400 transition duration-200"
+            className="w-14 h-14 object-cover rounded-full cursor-pointer border-2 border-gray-300 hover:border-blue-400 transition duration-200"
           />
         </a>
         <div className="mt-4 flex gap-2 items-center">
