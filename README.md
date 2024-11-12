@@ -9,6 +9,6 @@ This is the backend service for the project, built using Node.js, Apollo Server,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo/backend
+git clone https://github.com/somir1/samir-weaviate-project.git
+cd samir-weaviate-project/backend
 ```
