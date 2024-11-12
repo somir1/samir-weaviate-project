@@ -19,7 +19,7 @@ npm i to install all dependecies
 Create .env file and add the 2 env varibles.
 NASA_IMAGE_URL=https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos
 NASA_API_KEY=your_api_key(please reach out for a key or get one from api.nasa.gov)
-
+npm run start:dev
 
 ```
 
