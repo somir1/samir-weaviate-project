@@ -13,10 +13,20 @@ git clone https://github.com/somir1/samir-weaviate-project.git
 
 ```
 
-### 2. Setup Backend and env
+### 2. Backend setup
 ```bash
 npm i to install all dependecies
-
 Create .env file and add the 2 env varibles.
+NASA_IMAGE_URL=https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos
+NASA_API_KEY=your_api_key(please reach out for a key or get one from api.nasa.gov)
+
+
+```
+
+### 2. Frontend setup
+```bash
+cd ../frontend
+npm install
+npm run dev to start
 
 ```
